@@ -1,0 +1,1 @@
+/home/tijme/.fzf/shell/key-bindings.fish
